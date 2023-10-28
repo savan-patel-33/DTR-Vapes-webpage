@@ -1,0 +1,161 @@
+/* css code for home page starts from here  */
+
+body{
+
+    background-color: black;
+}
+
+header{
+    background-color: white;
+}
+
+.header_row{
+    width: 100%;
+}
+
+.alert{
+    text-align: center;
+    color: black;
+    font: bold;
+    font-weight: 500;
+    margin: 0%;
+}
+.alert-border{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+.navbar-brand{
+    margin-left: 325px;
+}
+.navbar-brand > img{
+    height: auto;
+    max-width: 90px;
+    margin-top: 0%;
+    vertical-align: middle;
+}
+.me-2{
+    margin-right: 0%!important;
+}
+.form-control{
+    width: 50%;
+    margin-left: 5%;
+    border-color: rgba(0, 0, 0, 0.223);
+    border-radius: 0%;
+}
+.btn{
+    border-radius: 0%;
+    margin-right: 70px;
+    color: #212529;
+    background-color: #fff;
+    border-color: #21252947;
+}
+.btn-outline-success{
+    border-color: rgba(0, 0, 0, 0.223);
+}
+.btn-user{
+    border-radius: 0%;
+    font-size: 25px;
+    margin-right: 150px;
+    color: #212529;
+    background-color: #fff;
+}
+.main_menubar{
+    display: block;
+    
+}
+.bg_main_menubar{
+    background-color: black;
+    width: 100%;
+}
+.main_menubar > ul {
+        list-style: none;
+        text-align: center;
+        margin: 0;
+}
+
+.main_menubar > ul > a {
+    margin: 20px 18px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    display: inline-flex;
+}
+.slider_imgs{
+    width: 100%;
+    height: 400px;
+}
+.body_content{
+    background-color: black;
+    width: 100%;
+}
+.mo-popu-pro > h3{
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+}
+.fla-img{
+    padding-top: 10px;
+    margin: 0px;
+    width: 100%;
+}
+img, svg{
+    vertical-align: middle;
+}
+.product-images{
+    display: flex;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.product-images, h5{
+    margin: 10px auto;
+    color: white;
+    text-align: center;
+}
+.product-images, a{
+    text-decoration: none;
+}
+.custom-footer{
+    background-color: black;
+}
+.cr_main_section .cr_contact_sec .row {
+    padding: 52px;
+    margin: auto;
+}
+.cr_main_section{
+    background-color: black;
+    margin: 58px auto;
+    margin-bottom: 20px !important;
+}
+.cr_main_section > .cr_contact_sec {
+    margin: 28px auto;
+    background-color: white !important;
+    color: black !important;
+    text-align: center !important;
+    font-family: sans-serif;
+}
+.cr_contact_sec .fa-clock-o{
+    font-size: 22px;
+    padding-right: 2px;
+}
+.cr_main_section .cr_contact_sec .row .col-md-3{
+    padding: 20px;
+    text-align: left !important;
+}
+.cr_main_section .cr_contact_sec .fa-mobile{
+    font-size: 29px;
+}
+.cr_main_section .cr_contact_sec .fa-whatsapp{
+    font-size: 18px;
+}
+.cr_main_section .cr_contact_sec .fa-map-marker{
+    font-size: 18px;
+}
+.policies > a{
+    text-decoration: none;
+    color: black;
+}
+.about-us > a{
+    text-decoration: none;
+    color: black;
+}
